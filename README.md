@@ -1,16 +1,12 @@
-# 📱 Google Play Store Analytics Dashboard | Tableau
+ Google Play Store Analytics Dashboard 
 
-# 📌 Project Overview
-
-The **Google Play Store Analytics Dashboard** is an interactive Business Intelligence project developed using **Tableau**. It analyzes Google Play Store application data and user reviews to uncover insights into app performance, ratings, installs, pricing, reviews, and category-wise trends.
+The Google Play Store Analytics Dashboard is an interactive Business Intelligence project developed using Tableau. It analyzes Google Play Store application data and user reviews to uncover insights into app performance, ratings, installs, pricing, reviews, and category-wise trends.
 
 The dashboard enables users to explore app market trends, compare categories, analyze user sentiment, and identify factors influencing application popularity.
 
 This project demonstrates practical skills in data visualization, dashboard design, exploratory data analysis, and business intelligence using Tableau.
 
----
-
-# 🎯 Objectives
+ Objectives
 
 The primary objectives of this project are to:
 
@@ -25,24 +21,17 @@ The primary objectives of this project are to:
 
 ---
 
-# 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|------|----------|
+ Tools & Technologies
 | Tableau Desktop | Dashboard Development |
 | CSV Files | Dataset |
 | Tableau Calculated Fields | Metrics & KPIs |
 | Tableau Filters | Interactive Analysis |
 | Tableau Dashboards | Business Intelligence |
 
----
-
-# 📂 Dataset
+ Dataset
 
 The project uses two datasets:
-
-### 📱 Google Play Store Dataset
-
+Google Play Store Dataset
 Contains information such as:
 
 - App Name
@@ -58,23 +47,18 @@ Contains information such as:
 - Last Updated
 - Android Version
 
-### 💬 User Reviews Dataset
-
+User Reviews Dataset
 Contains:
-
-- App Name
+-App Name
 - User Reviews
 - Sentiment
 - Sentiment Polarity
 - Sentiment Subjectivity
 
 ---
-
-# 📊 Dashboard Features
+Dashboard Features
 
 The dashboard provides interactive analysis of Google Play Store applications through multiple visualizations.
-
-## 📌 KPI Cards
 
 Key business metrics include:
 
@@ -88,8 +72,7 @@ Key business metrics include:
 
 ---
 
-## ⭐ Rating Analysis
-
+Rating Analysis
 Visualizes:
 
 - Average Ratings
@@ -98,8 +81,7 @@ Visualizes:
 - Top Performing Apps
 
 ---
-
-## 📥 Install Analysis
+Install Analysis
 
 Analyze:
 
@@ -108,9 +90,7 @@ Analyze:
 - Most Downloaded Categories
 - Top Applications
 
----
-
-## 📂 Category Analysis
+ Category Analysis
 
 Compare application categories based on:
 
@@ -119,9 +99,7 @@ Compare application categories based on:
 - Reviews
 - Installs
 
----
-
-## 💰 Price Analysis
+Price Analysis
 
 Analyze:
 
@@ -130,9 +108,7 @@ Analyze:
 - Price Distribution
 - Revenue Potential
 
----
-
-## 💬 User Review Analysis
+User Review Analysis
 
 Explore:
 
@@ -142,9 +118,7 @@ Explore:
 - Sentiment Distribution
 - Sentiment Polarity
 
----
-
-## 🎛️ Interactive Filters
+Interactive Filters
 
 Users can dynamically filter reports using:
 
@@ -156,9 +130,7 @@ Users can dynamically filter reports using:
 - Rating
 - Installs
 
----
-
-# 📈 Key Performance Indicators
+Key Performance Indicators
 
 The dashboard tracks:
 
@@ -171,9 +143,7 @@ The dashboard tracks:
 - Free App Percentage
 - User Sentiment
 
----
-
-# 💡 Business Insights
+ Business Insights
 
 The dashboard helps answer questions such as:
 
@@ -185,9 +155,7 @@ The dashboard helps answer questions such as:
 - Which categories generate the most user engagement?
 - What is the overall user sentiment?
 
----
-
-# 💼 Business Use Cases
+Business Use Cases
 
 This dashboard can be used for:
 
@@ -200,33 +168,7 @@ This dashboard can be used for:
 - Executive Reporting
 - Data Storytelling
 
----
-
-# 🔄 Project Workflow
-
-```
-CSV Dataset
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Data Preparation
-      │
-      ▼
-Calculated Fields
-      │
-      ▼
-Dashboard Development
-      │
-      ▼
-Interactive Visualizations
-      │
-      ▼
-Business Insights
-```
-
-# 🚀 Skills Demonstrated
+Skills Demonstrated
 
 - Tableau
 - Data Visualization
@@ -239,9 +181,7 @@ Business Insights
 - Customer Sentiment Analysis
 - Data Storytelling
 
----
-
-# 📚 Learning Outcomes
+Learning Outcomes
 
 This project enhanced my skills in:
 
@@ -255,19 +195,9 @@ This project enhanced my skills in:
 
 ---
 
-# 👩‍💻 About Me
+ About Me
+Aarzu Bharti
 
-**Aarzu Bharti**
+MBA (Business Analytics)| Aspiring Data & Business Analyst
 
-MBA (Business Analytics) | ECBA Certified | Former SBI Professional | Aspiring Data & Business Analyst
 
-### Skills
-
-- Tableau
-- Power BI
-- SQL
-- Excel
-- Python
-- Looker Studio
-- Data Visualization
-- Business Analysis
