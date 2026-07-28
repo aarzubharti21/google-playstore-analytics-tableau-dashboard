@@ -18,14 +18,14 @@ This project demonstrates practical skills in data visualization, dashboard desi
 - Generate actionable business insights.
 
 ## Tools & Technologies
-# Tableau Desktop 
-# Dashboard Development 
-# CSV Files Dataset 
-# Tableau Calculated Fields  
-# Metrics & KPIs 
-# Tableau Filters 
-# Interactive Analysis 
-# Tableau Dashboards 
+ Tableau Desktop 
+ Dashboard Development 
+ CSV Files Dataset 
+ Tableau Calculated Fields  
+ Metrics & KPIs 
+ Tableau Filters 
+ Interactive Analysis 
+ Tableau Dashboards 
 
 ##  Dataset
 The project uses two datasets:
