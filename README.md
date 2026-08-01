@@ -45,9 +45,11 @@ This project demonstrates practical skills in data visualization, dashboard desi
 
 ## Dataset
 
-The project uses two datasets: 
+The project uses two datasets:
+
 1.**Google Play Store Dataset**
 Contains information such as:
+
 - App Name
   
 - Category
@@ -73,7 +75,9 @@ Contains information such as:
 - Android Version
 
 2. **User Reviews Dataset**
+   
 Contains:
+
 -App Name
 
 - User Reviews
@@ -85,7 +89,9 @@ Contains:
 - Sentiment Subjectivity
 
 # Dashboard Features
+
 The dashboard provides interactive analysis of Google Play Store applications through multiple visualizations.
+
 1.**Key business metrics include**:
 
 - Total Apps
@@ -103,7 +109,9 @@ The dashboard provides interactive analysis of Google Play Store applications th
 - Average App Price
 
 2.**Rating Analysis**
+
 Visualizes:
+
 - Average Ratings
   
 - Highest Rated Categories
@@ -113,7 +121,9 @@ Visualizes:
 - Top Performing Apps
 
 3.**Install Analysis**
+
 **Analyze**:
+
 - Total Installs
   
 - Install Trends
@@ -123,7 +133,9 @@ Visualizes:
 - Top Applications
 
 4.**Category Analysis**
+
 Compare application categories based on:
+
 - Number of Apps
   
 - Ratings
@@ -133,7 +145,9 @@ Compare application categories based on:
 - Installs
 
 5.**Price Analysis**
+
 Analyze:
+
 - Paid Apps
   
 - Free Apps
@@ -143,7 +157,9 @@ Analyze:
 - Revenue Potential
 
 6.**User Review Analysis**
+
 Explore:
+
 - Positive Reviews
   
 - Negative Reviews
@@ -155,7 +171,9 @@ Explore:
 - Sentiment Polarity
 
 7.**Interactive Filters**
+
 Users can dynamically filter reports using:
+
 - App Category
   
 - App Type
@@ -171,7 +189,9 @@ Users can dynamically filter reports using:
 - Installs
 
 # Key Performance Indicators
+
 The dashboard tracks:
+
 **Total Apps**
   
 **Total Categories**
@@ -189,7 +209,9 @@ The dashboard tracks:
 **User Sentiment**
 
 # Business Insights
+
 The dashboard helps answer questions such as:
+
 - Which app categories have the highest ratings?
   
 - Which applications have the largest install base?
@@ -205,6 +227,7 @@ The dashboard helps answer questions such as:
 - What is the overall user sentiment?
 
 # Business Use Cases
+
 This dashboard can be used for:
 
 - Mobile App Market Analysis
@@ -224,6 +247,7 @@ This dashboard can be used for:
 - Data Storytelling
 
 # Skills Demonstrated
+
 - Tableau
   
 - Data Visualization
@@ -237,6 +261,7 @@ This dashboard can be used for:
 - KPI Development
 
 # Learning Outcomes
+
 This project enhanced my skills in:
 
 - Tableau Dashboard Development
