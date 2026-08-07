@@ -1,283 +1,75 @@
-# Google Play Store Analytics Dashboard 
+# Google Play Store Analytics Tableau Project
 
-## Analytical Dashboard by Tableau
+## Overview
 
-The Google Play Store Analytics Dashboard is an interactive Business Intelligence project developed using Tableau. It analyzes Google Play Store application data and user reviews to uncover insights into app performance, ratings, installs, pricing, reviews, and category-wise trends.
+I am excited to present the Google Play Store App Insights Dashboard, an interactive Tableau analytics project developed to transform raw Google Play Store application data into meaningful business insights. This project combines application information with user review data to deliver an intuitive dashboard that enables stakeholders to explore application performance, customer preferences, installation trends, ratings, and market distribution. Through interactive visualizations and dynamic filters, the dashboard supports data-driven decision-making for developers, product managers, and business analysts.
 
-The dashboard enables users to explore app market trends, compare categories, analyze user sentiment, and identify factors influencing application popularity.
+## Problem Statement
 
-This project demonstrates practical skills in data visualization, dashboard design, exploratory data analysis, and business intelligence using Tableau.
+The primary objective of this project was to build an interactive business intelligence solution capable of analyzing the performance of thousands of applications available on the Google Play Store. The dataset contained application metadata and customer review information, making it difficult to identify market trends, user preferences, category performance, and installation growth through traditional analysis. The project required the development of a Tableau dashboard that could dynamically filter applications by category, content rating, app type, genres, and update period while providing actionable insights into application performance.
 
-# Objectives
- The primary objectives of this project are to:
-- Analyze Google Play Store application data.
-  
-- Compare app performance across categories.
-  
-- Visualize rating and review trends.
-  
-- Study app install patterns.
-  
-- Understand pricing and revenue models.
-  
-- Explore user review sentiment.
-  
-- Build an interactive business dashboard.
-  
-- Generate actionable business insights.
+## Analysis Done
 
-# Tools & Technologies
- Tableau Desktop 
- 
- Dashboard Development 
- 
- CSV Files Dataset 
- 
- Tableau Calculated Fields  
- 
- Metrics & KPIs 
- 
- Tableau Filters 
- 
- Interactive Analysis 
- 
-#  Tableau Dashboards 
+The file in which the analysis is done is Google Play Store App Insights Dashboard.twb / .twbx
 
-## Dataset
+A comprehensive data preparation and visualization approach was implemented to ensure accurate reporting and highly interactive dashboards. The analytical workflow included:
 
-The project uses two datasets:
+-**Data Integration**: Combined the Google Play Store dataset with user review information to create a unified analytical model capable of supporting multi-dimensional business analysis.
 
-1.**Google Play Store Dataset**
-Contains information such as:
+-**Data Cleaning**: Cleaned inconsistent values by removing duplicate applications, handling missing ratings, standardizing install counts, converting prices into numeric values, and formatting categorical variables for accurate visualization.
 
-- App Name
-  
-- Category
-  
-- Rating
-  
-- Reviews
-  
-- Size
-  
-- Installs
-  
-- Type (Free/Paid)
-  
-- Price
-  
-- Content Rating
-  
-- Genres
-  
-- Last Updated
-  
-- Android Version
+-**Calculated Fields**: Developed calculated fields within Tableau to derive important business metrics including Average Rating, Total Installs, Total Categories, Total Applications, and category-wise application counts.
 
-2. **User Reviews Dataset**
-   
-Contains:
+-**Interactive Dashboard Design**: Designed responsive visualizations with cross-filtering capabilities, enabling users to drill down into application performance using filters such as Type, Genres, Content Rating, and Last Updated Date.
 
--App Name
+-**Trend Analysis**: Built time-series visualizations to monitor application updates over the years, helping identify publishing trends and marketplace growth.
 
-- User Reviews
-  
-- Sentiment
-  
-- Sentiment Polarity
-  
-- Sentiment Subjectivity
+-**Distribution Analysis**: Performed category-wise and content-rating-wise analysis to understand market segmentation, application availability, and customer targeting.
 
-# Dashboard Features
+## Dashboard
 
-The dashboard provides interactive analysis of Google Play Store applications through multiple visualizations.
+The final deliverable consists of a highly interactive Tableau dashboard that enables comprehensive exploration of Google Play Store applications through intuitive visualizations and dynamic filtering capabilities.
 
-1.**Key business metrics include**:
+## Dashboard Components
 
-- Total Apps
-  
-- Total Categories
-  
-- Average Rating
-  
-- Total Reviews
-  
-- Total Installs
-  
-- Paid vs Free Apps
-  
-- Average App Price
+-**KPI Summary Cards**: Displays key performance indicators including **Average Rating (4.071)**, **Total Applications (10,841)**, **Total Installs (167.63 Billion)**, and **Total Categories (34)**, providing an instant overview of marketplace performance.
 
-2.**Rating Analysis**
+-**Application Type Analysis**: Compares the distribution of Free and Paid applications, helping users understand the dominance of free applications within the marketplace.
 
-Visualizes:
+-**Content Rating Analysis**: Visualizes application distribution across content ratings such as Everyone, Teen, Mature 17+, Everyone 10+, and Unrated, enabling demographic-based market analysis.
 
-- Average Ratings
-  
-- Highest Rated Categories
-  
-- Rating Distribution
-  
-- Top Performing Apps
+-**Average Rating Distribution**: Displays average ratings for different content rating categories, allowing quick comparison of customer satisfaction across audience segments.
 
-3.**Install Analysis**
+-**Application Update Trend**: Tracks the number of applications updated each year, highlighting publishing activity and marketplace growth between 2010 and 2018.
 
-**Analyze**:
+-**Application Size Analysis**: Examines the distribution of applications based on file size, helping identify the most common application size ranges available on the Play Store.
 
-- Total Installs
-  
-- Install Trends
-  
-- Most Downloaded Categories
-  
-- Top Applications
+-**Interactive Filters**: Enables users to dynamically explore the dashboard using filters for Application Type, Genres, Last Updated Date, Content Rating, and other dimensions for customized analysis.
 
-4.**Category Analysis**
+## Recommendations
 
-Compare application categories based on:
+Based on the insights generated from the Tableau dashboard, the following strategic recommendations are proposed:
 
-- Number of Apps
-  
-- Ratings
-  
-- Reviews
-  
-- Installs
+-**Focus on High-Demand Categories**: Prioritize investment in application categories that consistently attract higher installations and stronger user engagement.
 
-5.**Price Analysis**
+-**Maintain High Customer Ratings**: Continuously monitor customer reviews and ratings to identify recurring issues and improve application quality through regular updates.
 
-Analyze:
+-**Leverage Free-to-Paid Conversion**: Since free applications dominate the marketplace, implement premium features, subscription models, or in-app purchases to improve monetization while maintaining a broad user base.
 
-- Paid Apps
-  
-- Free Apps
-  
-- Price Distribution
-  
-- Revenue Potential
+-**Optimize Application Size**: Keep application sizes lightweight to encourage downloads, especially in regions with limited storage capacity and slower internet connectivity.
 
-6.**User Review Analysis**
+-**Increase Update Frequency**: Frequently update applications to maintain compatibility, improve security, and enhance customer satisfaction, as actively maintained applications generally perform better.
 
-Explore:
+-**Target Appropriate Audience Segments**: Develop marketing campaigns based on content ratings and genres to maximize reach among the most relevant user groups.
 
-- Positive Reviews
-  
-- Negative Reviews
-  
-- Neutral Reviews
-  
-- Sentiment Distribution
-  
-- Sentiment Polarity
+-**Monitor Marketplace Trends**: Regularly analyze installation growth, category performance, and update trends to identify emerging opportunities and remain competitive in the rapidly evolving mobile application ecosystem.
 
-7.**Interactive Filters**
+## Author
+Aarzu Bharti
 
-Users can dynamically filter reports using:
 
-- App Category
-  
-- App Type
-  
-- Content Rating
-  
-- Genres
-  
-- Android Version
-  
-- Rating
-  
-- Installs
 
-# Key Performance Indicators
 
-The dashboard tracks:
-
-**Total Apps**
-  
-**Total Categories**
-  
-**Average Rating**
-
-**Total Reviews**
-
-**Total Installs**
-
-**Paid App Percentage**
-
-**Free App Percentage**
-
-**User Sentiment**
-
-# Business Insights
-
-The dashboard helps answer questions such as:
-
-- Which app categories have the highest ratings?
-  
-- Which applications have the largest install base?
-  
-- Which categories receive the most reviews?
-  
-- What percentage of apps are free versus paid?
-  
-- How does pricing affect installs?
-  
-- Which categories generate the most user engagement?
-  
-- What is the overall user sentiment?
-
-# Business Use Cases
-
-This dashboard can be used for:
-
-- Mobile App Market Analysis
-  
-- Business Intelligence
-  
-- Product Analytics
-  
-- Market Research
-  
-- Competitor Analysis
-  
-- Customer Sentiment Analysis
-  
-- Executive Reporting
-  
-- Data Storytelling
-
-# Skills Demonstrated
-
-- Tableau
-  
-- Data Visualization
-  
-- Dashboard Design
-  
-- Interactive Filters
-  
-- Calculated Fields
-  
-- KPI Development
-
-# Learning Outcomes
-
-This project enhanced my skills in:
-
-- Tableau Dashboard Development
-  
-- Data Visualization
-  
-- KPI Design
-  
-- Exploratory Data Analysis
-  
-- Dashboard Storytelling
-  
-- Interactive Reporting
-
-## AUTHOR
-## AARZU BHARTI
 
 
 
