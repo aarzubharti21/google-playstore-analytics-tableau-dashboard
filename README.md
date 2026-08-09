@@ -4,7 +4,7 @@
 
 I am excited to present the Google Play Store App Insights Dashboard, an interactive Tableau analytics project developed to transform raw Google Play Store application data into meaningful business insights. This project combines application information with user review data to deliver an intuitive dashboard that enables stakeholders to explore application performance, customer preferences, installation trends, ratings, and market distribution. Through interactive visualizations and dynamic filters, the dashboard supports data-driven decision-making for developers, product managers, and business analysts.
 
-## Problem Statement
+## Project Background
 
 The primary objective of this project was to build an interactive business intelligence solution capable of analyzing the performance of thousands of applications available on the Google Play Store. The dataset contained application metadata and customer review information, making it difficult to identify market trends, user preferences, category performance, and installation growth through traditional analysis. The project required the development of a Tableau dashboard that could dynamically filter applications by category, content rating, app type, genres, and update period while providing actionable insights into application performance.
 
@@ -24,13 +24,9 @@ A comprehensive data preparation and visualization approach was implemented to e
 
 - **Trend Analysis**: Built time-series visualizations to monitor application updates over the years, helping identify publishing trends and marketplace growth.
 
-- **Distribution Analysis**: Performed category-wise and content-rating-wise analysis to understand market segmentation, application availability, and customer targeting.
-
-## Dashboard
+## Dashboard Components
 
 The final deliverable consists of a highly interactive Tableau dashboard that enables comprehensive exploration of Google Play Store applications through intuitive visualizations and dynamic filtering capabilities.
-
-## Dashboard Components
 
 - **KPI Summary Cards**: Displays key performance indicators including **Average Rating (4.071)**, **Total Applications (10,841)**, **Total Installs (167.63 Billion)**, and **Total Categories (34)**, providing an instant overview of marketplace performance.
 
@@ -39,10 +35,6 @@ The final deliverable consists of a highly interactive Tableau dashboard that en
 - **Content Rating Analysis**: Visualizes application distribution across content ratings such as Everyone, Teen, Mature 17+, Everyone 10+, and Unrated, enabling demographic-based market analysis.
 
 - **Average Rating Distribution**: Displays average ratings for different content rating categories, allowing quick comparison of customer satisfaction across audience segments.
-
-- **Application Update Trend**: Tracks the number of applications updated each year, highlighting publishing activity and marketplace growth between 2010 and 2018.
-
-- **Application Size Analysis**: Examines the distribution of applications based on file size, helping identify the most common application size ranges available on the Play Store.
 
 - **Interactive Filters**: Enables users to dynamically explore the dashboard using filters for Application Type, Genres, Last Updated Date, Content Rating, and other dimensions for customized analysis.
 
@@ -57,10 +49,6 @@ Based on the insights generated from the Tableau dashboard, the following strate
 - **Leverage Free-to-Paid Conversion**: Since free applications dominate the marketplace, implement premium features, subscription models, or in-app purchases to improve monetization while maintaining a broad user base.
 
 - **Optimize Application Size**: Keep application sizes lightweight to encourage downloads, especially in regions with limited storage capacity and slower internet connectivity.
-
-- **Increase Update Frequency**: Frequently update applications to maintain compatibility, improve security, and enhance customer satisfaction, as actively maintained applications generally perform better.
-
-- **Target Appropriate Audience Segments**: Develop marketing campaigns based on content ratings and genres to maximize reach among the most relevant user groups.
 
 - **Monitor Marketplace Trends**: Regularly analyze installation growth, category performance, and update trends to identify emerging opportunities and remain competitive in the rapidly evolving mobile application ecosystem.
 
