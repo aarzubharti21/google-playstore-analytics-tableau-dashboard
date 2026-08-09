@@ -10,7 +10,7 @@ The primary objective of this project was to build an interactive business intel
 
 ## Analysis Done
 
-The file in which the analysis is done is Google Play Store App Insights Dashboard.twb / .twbx
+> The file in which the analysis is done is **Google Play Store App Insights Dashboard.twb / .twbx**
 
 A comprehensive data preparation and visualization approach was implemented to ensure accurate reporting and highly interactive dashboards. The analytical workflow included:
 
@@ -18,7 +18,7 @@ A comprehensive data preparation and visualization approach was implemented to e
 
 - **Data Cleaning**: Cleaned inconsistent values by removing duplicate applications, handling missing ratings, standardizing install counts, converting prices into numeric values, and formatting categorical variables for accurate visualization.
 
-- **Calculated Fields**: Developed calculated fields within Tableau to derive important business metrics including Average Rating, Total Installs, Total Categories, Total Applications, and category-wise application counts.
+- **Calculated Fields**: Developed calculated fields within Tableau to derive important business metrics including **Average Rating**, **Total Installs**, **Total Categories**, **Total Applications**, and category-wise **application counts**.
 
 - **Interactive Dashboard Design**: Designed responsive visualizations with cross-filtering capabilities, enabling users to drill down into application performance using filters such as Type, Genres, Content Rating, and Last Updated Date.
 
